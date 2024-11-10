@@ -16,7 +16,7 @@ _Object Following_ : Tracks and follows selected objects, enabling applications 
 
 
 
-_** REAL LIFE PROBLEM SOLVING:**_
+_**REAL LIFE PROBLEM SOLVING:**_
 _Obstacle Detection and Avoidance_ : It will recognize and avoid obstacles automatically, guaranteeing smooth operation. 
 
 _Path Finding_ : By dynamically avoiding impediments and choosing the safest route to its target, path finding makes efficient, autonomous navigation possible. 
